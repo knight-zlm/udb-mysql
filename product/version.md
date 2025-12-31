@@ -64,9 +64,9 @@ NVMe型、通用型支持按照CPU和内存1:2、1:4、1:8三种配比形式选�
 
 ### MySQL产品版本
 
-NVMe机型MySQL，支持MySQL5.6/5.7/8.0和Percona5.6/5.7协议。
+NVMe机型MySQL，支持MySQL5.6/5.7/8.0/8.4和Percona5.6/5.7协议。
 
-通用型MySQL，支持MySQL5.6/5.7/8.0和Percona5.6/5.7协议。
+通用型MySQL，支持MySQL5.6/5.7/8.0/8.4和Percona5.6/5.7协议。
 
 共享型MySQL，支持MySQL5.6/5.7/8.0和Percona5.6/5.7协议。
 

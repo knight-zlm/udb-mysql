@@ -18,7 +18,7 @@
 ![image](/images/quick/createMySQLConf2023.png)
 
 - 用户在选择大版本后，可在小版本列表选择对应小版本。
-- 对于8.0版本，用户按需要配置“表名大小写”。 此配置项在实例创建后不可更改
+- 对于8.0和8.4版本，用户按需要配置“表名大小写”。 此配置项在实例创建后不可更改
 ```
  on 表示 lower_case_table_names=0，即表名区分大小写
  off  表示 lower_case_table_names=1，即表名不区分大小写

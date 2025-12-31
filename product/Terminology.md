@@ -13,7 +13,7 @@ MySQL实例包括普通版和高可用版实例类型。
 
 ## 版本
 
-MySQL实例目前支持MySQL5.5、MySQL5.6、MySQL5.7、MySQL8.0、Percona 5.5、Percona5.6和Percona 5.7等，用户可以根据需求选择相应的云数据库版本。
+MySQL实例目前支持MySQL5.5、MySQL5.6、MySQL5.7、MySQL8.0、MySQL8.4、Percona 5.5、Percona5.6和Percona 5.7等，用户可以根据需求选择相应的云数据库版本。
 
 ## 数据库机型
 
